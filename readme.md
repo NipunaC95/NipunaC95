@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on :- ReactJS , NextJS ,  NodeJS , Spring boot  
 - 🌱 I’m currently learning :- Flutter , VueJS ,  NuxtJS 
-- 📫 How to reach me :-     <a  href="https://www.linkedin.com/in/NipunaC95/"> <img alt="Linkedin"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> 
-<br/>   
+- 📫 Reach me at **chandimal.nipuna@gmail.com** 
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=NipunaC95&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
