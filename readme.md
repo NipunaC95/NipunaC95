@@ -9,8 +9,8 @@
 >
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on :- ReactJS , NextJS ,  NodeJS , Spring boot  
-- 🌱 I’m currently learning :- Flutter , VueJS ,  NuxtJS 
+- 🔭 I’m currently working on :- ReactJS , NodeJS 
+- 🌱 I’m currently learning :- Spring boot , TailwindCSS
 - 📫 Reach me at **chandimal.nipuna@gmail.com** 
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=NipunaC95&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
