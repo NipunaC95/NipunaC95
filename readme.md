@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=NipunaC95&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
+ 
+![Profile views counter](https://komarev.com/ghpvc/?username=NipunaC95)
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NipunaC95&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&)](https://github.com/anuraghazra/github-readme-stats) 
  
